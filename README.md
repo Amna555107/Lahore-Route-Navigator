@@ -26,8 +26,7 @@ which is visually highlighted in the interface.
 
 ## Live Demo
 
-https://khadijaikram-3.github.io/Lahore-Navigator/
-
+ https://amna555107.github.io/Lahore-Route-Navigator/
 ## Screenshots
 
 ![Menu Dropdown](Screenshot/menu_dropdown.png.png)
