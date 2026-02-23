@@ -27,9 +27,4 @@ which is visually highlighted in the interface.
 ## Live Demo
 
  https://amna555107.github.io/Lahore-Route-Navigator/
-## Screenshots
-
-![Menu Dropdown](Screenshot/menu_dropdown.png.png)
-![Route View](Screenshot/route_view.png.png)
-![Shortest Route](Screenshot/shortest_route.png.png)
 
